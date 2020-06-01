@@ -1,4 +1,4 @@
-# React Rich Text Editor
+# React Rich Text Editor Extended (Main editor: https://github.com/sstur/react-rte)
 
 ![Build Status](https://travis-ci.org/sstur/react-rte.svg?branch=master)
 

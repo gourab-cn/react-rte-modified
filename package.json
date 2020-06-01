@@ -1,7 +1,7 @@
 {
-  "name": "react-rte",
-  "version": "0.16.1",
-  "description": "React Rich Text Editor",
+  "name": "react-rte-modified",
+  "version": "1.0.0",
+  "description": "React Rich Text Editor Extended",
   "main": "dist/react-rte.js",
   "files": [
     "lib",
@@ -139,7 +139,7 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sstur/react-rte/issues"
+    "url": "https://github.com/gourab-cn/react-rte-modified/issues"
   },
-  "homepage": "https://github.com/sstur/react-rte#readme"
+  "homepage": "https://github.com/gourab-cn/react-rte-modified#readme"
 }
